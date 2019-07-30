@@ -1,0 +1,40 @@
+﻿<Window x:Class="RealmExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RealmExample"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBlock Text="Employee List" FontSize="18"/>
+        <ListView Name="lstEmployees">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding EmpName}" />
+                        <TextBlock Text="{Binding Company}"  />
+                        <TextBlock Text="{Binding EmpId}"  />
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Content="Add New Employee" Click="Button_Click"             
+                />
+
+        <Button Content="Show" Click="Button_Click_1" />
+
+        <TextBlock Text="Department List" FontSize="18"/>
+        <ListView Name="lstDepartments">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding DepartmentID}" />
+                        <TextBlock Text="{Binding Name}"  />
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </StackPanel>
+</Window>

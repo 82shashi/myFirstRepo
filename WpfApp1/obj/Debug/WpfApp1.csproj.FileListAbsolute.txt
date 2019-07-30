@@ -1,0 +1,15 @@
+D:\Study\RealmExample\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Study\RealmExample\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Study\RealmExample\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Study\RealmExample\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\Study\RealmExample\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Study\RealmExample\WpfApp1\obj\Debug\App.g.cs
+D:\Study\RealmExample\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Study\RealmExample\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Study\RealmExample\WpfApp1\obj\Debug\MainWindow.baml
+D:\Study\RealmExample\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Study\RealmExample\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Study\RealmExample\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Study\RealmExample\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Study\RealmExample\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Study\RealmExample\WpfApp1\obj\Debug\WpfApp1.pdb
